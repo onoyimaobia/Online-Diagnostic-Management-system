@@ -1,0 +1,32 @@
+﻿<html>
+<body>
+<h1>Your Password Has Been Changed!</h1>
+    <p>
+        This mail Confirms That Your Password Has Been Changed. 
+    </p>
+    <p>
+        To log unto the site ,use the following credentials.
+    </p>
+    <table>
+        <tr>
+            <td>
+                <b>Username:</b>
+            </td>
+            <td>
+                <%UserName%>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <b>Password:</b>
+            </td>
+            <td>
+                <%Password%>
+            </td>
+        </tr>
+    </table>
+    <p>
+        If you have any question or encounter any problems logging in,please contact the site addministrator Using the Contact Us Page.
+    </p>
+</body>
+</html>

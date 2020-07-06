@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Toochi\Desktop\New Folder</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="about.aspx">
+      <publishTime>11/08/2017 20:14:49</publishTime>
+    </File>
+    <File Include="appoint.aspx">
+      <publishTime>11/19/2017 09:01:53</publishTime>
+    </File>
+    <File Include="appointment.aspx">
+      <publishTime>11/19/2017 04:37:15</publishTime>
+    </File>
+    <File Include="bin/diagnostic.dll">
+      <publishTime>12/05/2017 16:45:49</publishTime>
+    </File>
+    <File Include="bin/diagnostic.pdb">
+      <publishTime>12/05/2017 16:45:49</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>10/07/2016 13:33:43</publishTime>
+    </File>
+    <File Include="bin/itextsharp.pdfa.dll">
+      <publishTime>10/07/2016 13:33:36</publishTime>
+    </File>
+    <File Include="bin/itextsharp.xtra.dll">
+      <publishTime>10/07/2016 13:33:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="changePassword.aspx">
+      <publishTime>10/16/2017 12:04:14</publishTime>
+    </File>
+    <File Include="contact.aspx">
+      <publishTime>11/08/2017 21:51:26</publishTime>
+    </File>
+    <File Include="download.aspx">
+      <publishTime>11/19/2017 20:08:31</publishTime>
+    </File>
+    <File Include="EmailTemplate/change.txt">
+      <publishTime>10/16/2017 12:00:55</publishTime>
+    </File>
+    <File Include="EmailTemplate/changePassword.html">
+      <publishTime>10/16/2017 11:53:51</publishTime>
+    </File>
+    <File Include="EmailTemplate/PasswordRecovery.txt">
+      <publishTime>10/14/2017 10:21:49</publishTime>
+    </File>
+    <File Include="gridwiew.aspx">
+      <publishTime>07/26/2017 04:14:04</publishTime>
+    </File>
+    <File Include="heamatology.aspx">
+      <publishTime>11/08/2017 11:24:16</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>12/03/2017 04:26:09</publishTime>
+    </File>
+    <File Include="image/2.png">
+      <publishTime>07/12/2017 17:56:22</publishTime>
+    </File>
+    <File Include="image/3.PNG">
+      <publishTime>07/13/2017 03:36:25</publishTime>
+    </File>
+    <File Include="image/4.PNG">
+      <publishTime>07/22/2017 11:47:09</publishTime>
+    </File>
+    <File Include="image/6.png">
+      <publishTime>07/13/2017 02:29:03</publishTime>
+    </File>
+    <File Include="image/7.PNG">
+      <publishTime>07/12/2017 16:36:16</publishTime>
+    </File>
+    <File Include="image/address.fw.png">
+      <publishTime>07/14/2017 11:13:50</publishTime>
+    </File>
+    <File Include="image/amb.fw.png">
+      <publishTime>07/16/2017 05:57:47</publishTime>
+    </File>
+    <File Include="image/andro.jpg">
+      <publishTime>09/10/2017 21:18:26</publishTime>
+    </File>
+    <File Include="image/appoint.fw.png">
+      <publishTime>10/11/2017 07:57:56</publishTime>
+    </File>
+    <File Include="image/bx.fw.png">
+      <publishTime>11/08/2017 19:54:50</publishTime>
+    </File>
+    <File Include="image/chemical.jpg">
+      <publishTime>09/10/2017 21:18:26</publishTime>
+    </File>
+    <File Include="image/cmd.png">
+      <publishTime>07/13/2017 04:35:01</publishTime>
+    </File>
+    <File Include="image/contact.jpg">
+      <publishTime>09/08/2017 23:53:58</publishTime>
+    </File>
+    <File Include="image/copy.fw.png">
+      <publishTime>11/07/2017 11:17:21</publishTime>
+    </File>
+    <File Include="image/cytogen.jpg">
+      <publishTime>09/10/2017 21:18:26</publishTime>
+    </File>
+    <File Include="image/dna.fw.png">
+      <publishTime>07/13/2017 21:26:27</publishTime>
+    </File>
+    <File Include="image/face.fw.png">
+      <publishTime>07/14/2017 11:47:35</publishTime>
+    </File>
+    <File Include="image/facebook.fw.png">
+      <publishTime>07/16/2017 04:35:21</publishTime>
+    </File>
+    <File Include="image/faci.PNG">
+      <publishTime>11/08/2017 19:38:51</publishTime>
+    </File>
+    <File Include="image/first.fw.png">
+      <publishTime>07/13/2017 03:21:59</publishTime>
+    </File>
+    <File Include="image/footer.fw.png">
+      <publishTime>07/16/2017 07:36:06</publishTime>
+    </File>
+    <File Include="image/forth.fw.png">
+      <publishTime>07/13/2017 03:23:25</publishTime>
+    </File>
+    <File Include="image/heama.jpg">
+      <publishTime>09/10/2017 21:18:26</publishTime>
+    </File>
+    <File Include="image/hema.fw.png">
+      <publishTime>07/13/2017 21:26:41</publishTime>
+    </File>
+    <File Include="image/home.fw.png">
+      <publishTime>07/13/2017 02:24:22</publishTime>
+    </File>
+    <File Include="image/lab.PNG">
+      <publishTime>11/08/2017 19:38:51</publishTime>
+    </File>
+    <File Include="image/LabHome.jpg">
+      <publishTime>07/17/2017 06:53:23</publishTime>
+    </File>
+    <File Include="image/logo.png">
+      <publishTime>07/07/2017 21:53:12</publishTime>
+    </File>
+    <File Include="image/man.png">
+      <publishTime>07/14/2017 17:24:20</publishTime>
+    </File>
+    <File Include="image/micro.jpg">
+      <publishTime>09/10/2017 21:18:26</publishTime>
+    </File>
+    <File Include="image/mission.fw.png">
+      <publishTime>11/08/2017 19:17:45</publishTime>
+    </File>
+    <File Include="image/molecular.jpg">
+      <publishTime>09/10/2017 21:18:26</publishTime>
+    </File>
+    <File Include="image/nwosu1.PNG">
+      <publishTime>09/10/2017 05:19:25</publishTime>
+    </File>
+    <File Include="image/nwosu2.PNG">
+      <publishTime>09/10/2017 05:26:24</publishTime>
+    </File>
+    <File Include="image/ogo.png">
+      <publishTime>11/17/2017 05:32:40</publishTime>
+    </File>
+    <File Include="image/page.fw.png">
+      <publishTime>07/12/2017 14:27:14</publishTime>
+    </File>
+    <File Include="image/pragn.PNG">
+      <publishTime>11/08/2017 19:38:51</publishTime>
+    </File>
+    <File Include="image/ref.fw.png">
+      <publishTime>07/19/2017 14:34:23</publishTime>
+    </File>
+    <File Include="image/reff.fw.png">
+      <publishTime>07/17/2017 08:16:24</publishTime>
+    </File>
+    <File Include="image/refresh1.fw.png">
+      <publishTime>11/08/2017 20:35:53</publishTime>
+    </File>
+    <File Include="image/rest.fw.png">
+      <publishTime>11/17/2017 05:11:57</publishTime>
+    </File>
+    <File Include="image/sample.PNG">
+      <publishTime>11/19/2017 21:10:31</publishTime>
+    </File>
+    <File Include="image/second.fw.png">
+      <publishTime>07/13/2017 03:22:36</publishTime>
+    </File>
+    <File Include="image/select1.PNG">
+      <publishTime>09/17/2017 14:03:07</publishTime>
+    </File>
+    <File Include="image/select2.PNG">
+      <publishTime>09/17/2017 14:03:07</publishTime>
+    </File>
+    <File Include="image/select3.PNG">
+      <publishTime>09/17/2017 14:02:56</publishTime>
+    </File>
+    <File Include="image/service.fw.png">
+      <publishTime>11/08/2017 19:50:26</publishTime>
+    </File>
+    <File Include="image/slide1.fw.png">
+      <publishTime>11/19/2017 20:53:37</publishTime>
+    </File>
+    <File Include="image/slide2.fw.png">
+      <publishTime>11/19/2017 20:53:37</publishTime>
+    </File>
+    <File Include="image/slide3.fw.png">
+      <publishTime>11/19/2017 20:53:37</publishTime>
+    </File>
+    <File Include="image/slide4.fw.png">
+      <publishTime>11/19/2017 20:53:37</publishTime>
+    </File>
+    <File Include="image/slide5.fw.png">
+      <publishTime>11/19/2017 21:10:18</publishTime>
+    </File>
+    <File Include="image/test.fw.png">
+      <publishTime>07/17/2017 07:06:50</publishTime>
+    </File>
+    <File Include="image/third.fw.png">
+      <publishTime>07/13/2017 03:22:59</publishTime>
+    </File>
+    <File Include="image/thub1.fw.png">
+      <publishTime>07/13/2017 04:13:06</publishTime>
+    </File>
+    <File Include="image/twitter.fw.png">
+      <publishTime>07/14/2017 11:47:53</publishTime>
+    </File>
+    <File Include="image/urine&amp;drug.fw.png">
+      <publishTime>11/07/2017 10:36:54</publishTime>
+    </File>
+    <File Include="image/urine.fw.png">
+      <publishTime>07/13/2017 21:27:01</publishTime>
+    </File>
+    <File Include="image/warning.fw.png">
+      <publishTime>07/16/2017 04:41:49</publishTime>
+    </File>
+    <File Include="image/who.fw.png">
+      <publishTime>11/08/2017 19:17:45</publishTime>
+    </File>
+    <File Include="image/xray1.fw.png">
+      <publishTime>07/13/2017 21:14:39</publishTime>
+    </File>
+    <File Include="jquery-1.4.1.min.js">
+      <publishTime>07/23/2017 07:10:50</publishTime>
+    </File>
+    <File Include="learn.aspx">
+      <publishTime>09/30/2017 06:31:27</publishTime>
+    </File>
+    <File Include="location.aspx">
+      <publishTime>11/08/2017 20:17:40</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>10/26/2017 00:21:50</publishTime>
+    </File>
+    <File Include="logout.aspx">
+      <publishTime>10/11/2017 04:35:57</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/07/2017 19:53:35</publishTime>
+    </File>
+    <File Include="passwordrecover.aspx">
+      <publishTime>10/14/2017 10:20:13</publishTime>
+    </File>
+    <File Include="practice.aspx">
+      <publishTime>11/17/2017 03:54:45</publishTime>
+    </File>
+    <File Include="print.aspx">
+      <publishTime>11/19/2017 04:20:03</publishTime>
+    </File>
+    <File Include="print1.aspx">
+      <publishTime>10/30/2017 08:46:46</publishTime>
+    </File>
+    <File Include="savetogridview.aspx">
+      <publishTime>12/03/2017 04:37:31</publishTime>
+    </File>
+    <File Include="ScrollableGridViewPlugin_ASP.NetAJAXmin.js">
+      <publishTime>07/23/2017 07:10:22</publishTime>
+    </File>
+    <File Include="service.aspx">
+      <publishTime>11/07/2017 03:00:10</publishTime>
+    </File>
+    <File Include="signup.aspx">
+      <publishTime>09/02/2017 06:13:12</publishTime>
+    </File>
+    <File Include="symptom.aspx">
+      <publishTime>11/14/2017 17:47:33</publishTime>
+    </File>
+    <File Include="symptomappointment.aspx">
+      <publishTime>11/19/2017 04:11:56</publishTime>
+    </File>
+    <File Include="Test1.aspx">
+      <publishTime>11/14/2017 18:21:21</publishTime>
+    </File>
+    <File Include="text.aspx">
+      <publishTime>10/02/2017 21:38:19</publishTime>
+    </File>
+    <File Include="too.Master">
+      <publishTime>09/02/2017 05:40:42</publishTime>
+    </File>
+    <File Include="UrineandDrug.aspx">
+      <publishTime>11/07/2017 10:45:06</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/05/2017 16:45:53</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
